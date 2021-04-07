@@ -7,7 +7,7 @@ This project is to create a basic HTML mockup that was generated via back end us
 
 ### Table of Contents
 **[About](#about)**<br>
-**[Installation Instructions](#walkthrough-video)**<br>
+**[Walkthrough Video](#walkthrough-video)**<br>
 **[Usage Information](#usage-information)**<br>
 **[Test Instructions](#test-instructions)**<br>
 **[Licenses](#licenses)**<br>
