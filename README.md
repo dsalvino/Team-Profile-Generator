@@ -7,21 +7,18 @@ This project is to create a basic HTML mockup that was generated via back end us
 
 ### Table of Contents
 **[About](#about)**<br>
-**[Installation Instructions](#installation-instructions)**<br>
+**[Installation Instructions](#walkthrough-video)**<br>
 **[Usage Information](#usage-information)**<br>
 **[Test Instructions](#test-instructions)**<br>
-**[Contribution Guidelines](#contribution-guidelines)**<br>
 **[Licenses](#licenses)**<br>
 **[Contact Me](#contact-me)**<br>
 
-## Installation Instructions
-No installation
+## Walkthrough Video
+https://drive.google.com/file/d/14J5b5OhuGKLFgFGHpcKxRV8s365oKbto/view?usp=sharing
 ## Usage Information
 This would be if you had a team and you wanted to give them identification or know who it was.
 ## Test Instructions
 you would fork or clone and run index
-## Contribution Guidelines
-no
 ## Licenses
 MIT
 ## Contact Me
